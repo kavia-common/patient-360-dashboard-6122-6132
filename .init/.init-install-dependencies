@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/patient-360-dashboard-6122-6132/patient_portal_database"
+}
